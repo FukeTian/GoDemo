@@ -1,8 +1,8 @@
 package service
 
 import (
-	"UserTest/dao"
-	"UserTest/model"
+	"GoDemo/dao"
+	"GoDemo/model"
 	"time"
 )
 

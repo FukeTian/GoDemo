@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"UserTest/framework"
-	"UserTest/model"
+	"GoDemo/framework"
+	"GoDemo/model"
 	"fmt"
 )
 

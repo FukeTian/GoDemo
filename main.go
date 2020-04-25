@@ -1,8 +1,8 @@
 package main
 
 import (
-	"UserTest/controller"
-	"UserTest/framework"
+	"GoDemo/controller"
+	"GoDemo/framework"
 	"fmt"
 	"net/http"
 	"time"

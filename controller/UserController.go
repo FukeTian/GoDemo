@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"UserTest/framework"
-	"UserTest/service"
-	"UserTest/utils"
+	"GoDemo/framework"
+	"GoDemo/service"
+	"GoDemo/utils"
 	"net/http"
 )
 
